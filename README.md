@@ -11,7 +11,7 @@ I’m a web developer who’s passionate about creating elegant and efficient we
 
 ## Technologies I Work With
 
-- **Front-End:** HTML, CSS, JavaScript, Reactjs, React native
+- **Front-End:** HTML, CSS, JavaScript, Reactjs, React native, Tailwind, Bootstrap
 - **Back-End:** Node.js, Express, PHP, Laravel
-- **Databases:** MySQL, MongoDB
+- **Databases:** SQL, MongoDB
 - **Tools:** Git
