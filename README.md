@@ -13,14 +13,14 @@ I'm a passionate web developer with a love for building sleek, functional, and u
 ## 🛠 Technologies I Work With
 
 ### Front-End
-- HTML, CSS, JavaScript / TypeScript
 - React.js, React Native
+- JavaScript / TypeScript
 - Tailwind CSS, Bootstrap
 - Zustand, Redux
 
 ### Back-End
 - Node.js, Express.js
-- PHP, Laravel
+- Python
 - RESTful APIs, WebSockets
 
 ### Databases
