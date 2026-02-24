@@ -22,6 +22,7 @@ I'm a passionate web developer with a love for building sleek, functional, and u
 - Node.js, Express.js
 - Python
 - RESTful APIs, WebSockets
+- Playwright
 
 ### Databases
 - MySQL, MongoDB
