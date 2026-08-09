@@ -4,11 +4,11 @@ I'm a passionate web developer with a love for building sleek, functional, and u
 
 ## What I Do
 
-- ⚙️ Build scalable and maintainable web applications
-- 🖥️ Craft responsive, mobile-friendly UIs
-- 🎨 Design clean and intuitive user experiences
-- 🔐 Implement security best practices (auth, validation, etc.)
-- 📊 Optimize performance and load times
+- Build scalable and maintainable web applications
+- Craft responsive, mobile-friendly UIs
+- Design clean and intuitive user experiences
+- Implement security best practices (auth, validation, etc.)
+- Optimize performance and load times
 
 ## 🛠 Technologies I Work With
 
